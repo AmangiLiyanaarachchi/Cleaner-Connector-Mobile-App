@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33588551520",
+    "project_id": "cleanerconnect-b06a3",
+    "storage_bucket": "cleanerconnect-b06a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33588551520:android:c93cd1ba8e0ed5a503c805",
+        "android_client_info": {
+          "package_name": "com.hasthiya.cleanconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7p2rShiMEe_nKhjYbtT9QIkegV10sB3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33588551520:android:0262624de5ac872703c805",
+        "android_client_info": {
+          "package_name": "com.hasthiya.cleanconnecttab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7p2rShiMEe_nKhjYbtT9QIkegV10sB3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
