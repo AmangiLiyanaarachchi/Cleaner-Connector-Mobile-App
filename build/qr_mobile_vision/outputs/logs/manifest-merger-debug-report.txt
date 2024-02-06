@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:6:5-8:36
+	android:required
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:7:9-57
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:9:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.flash
+ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:15:9-53
+application
+ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:18:5-22:19
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:19:9-21:39
+	android:value
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:20:13-70
+uses-sdk
+INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+		ADDED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml

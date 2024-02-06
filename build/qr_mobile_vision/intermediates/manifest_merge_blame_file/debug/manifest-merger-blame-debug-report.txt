@@ -1,0 +1,49 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.github.rmtmckenzie.qrmobilevision" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="19"
+6-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="19" />
+7-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:5:5-65
+9-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:5:22-62
+10
+11    <uses-feature
+11-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:6:5-8:36
+12        android:name="android.hardware.camera.autofocus"
+12-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:7:9-57
+13        android:required="false" />
+13-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:8:9-33
+14
+15    <uses-permission android:name="android.permission.FLASHLIGHT" />
+15-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:9:5-69
+15-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:9:22-66
+16
+17    <uses-feature
+17-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:11:5-13:36
+18        android:name="android.hardware.camera"
+18-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:12:9-47
+19        android:required="false" />
+19-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:13:9-33
+20    <uses-feature
+20-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:14:5-16:36
+21        android:name="android.hardware.camera.flash"
+21-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:15:9-53
+22        android:required="false" />
+22-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:16:9-33
+23
+24    <application>
+24-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:18:5-22:19
+25        <meta-data
+25-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:19:9-21:39
+26            android:name="com.google.android.gms.vision.DEPENDENCIES"
+26-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:20:13-70
+27            android:value="barcode" />
+27-->/Users/amangiliyanaarachchi/.pub-cache/hosted/pub.dev/qr_mobile_vision-4.1.4/android/src/main/AndroidManifest.xml:21:13-36
+28    </application>
+29
+30</manifest>
